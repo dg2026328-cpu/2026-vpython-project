@@ -1,0 +1,2 @@
+포우게임 배경이 될 이미지를 제작하고, 그 이미지 파일을 배경에 붙일 수 있게 시도함
+box(pos=vec(800,600,0),texture  = "/mnt/data/a_clean_flat_cartoonish_mobile_game_ui_in_a_wide.png"
