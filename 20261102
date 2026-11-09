@@ -1,3 +1,5 @@
-포우게임 배경이 될 이미지를 제작하고, 그 이미지 파일을 배경에 붙일 수 있게 시도했으나 오류로 인해서 실패함
+(마유림 결석) 
+1.오늘한일: 포우게임 배경이 될 이미지를 제작하고, 그 이미지 파일을 배경에 붙일 수 있게 시도했으나 오류로 인해서 실패함
+2.다음에할일: 제작한 이미지를 배경에 붙여넣고, 먹이를 제작하여 포우의 입에 닿으면 사라지도록 코딩해야함
 box(pos=vec(800,600,0),texture  = "/mnt/data/a_clean_flat_cartoonish_mobile_game_ui_in_a_wide.png"
 box(pos=vec(0,0,0),texture = "/mnt/data/a_clean_flat_cartoonish_mobile_game_ui_in_a_wide.png",size = vex(20,20,0)
